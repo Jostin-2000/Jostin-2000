@@ -1,11 +1,19 @@
-[README (2).md](https://github.com/user-attachments/files/30434703/README.2.md)
+[README (3).md](https://github.com/user-attachments/files/30434868/README.3.md)
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:6DB33F&height=200&section=header&text=¡Hola,%20soy%20Jostin!&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Desarrollador%20de%20Software%20%7C%20Backend%20Enthusiast%20%7C%20Ecuador&descAlignY=55&descSize=18" width="100%"/>
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=6DB33F&center=true&vCenter=true&width=600&lines=Construyendo+APIs+robustas+con+Spring+Boot;Aprendiendo+algo+nuevo+cada+d%C3%ADa;Postulando+a+la+beca+Fulbright-SENESCYT" alt="Typing SVG" />
+
+<br/><br/>
+
 <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="#"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://github.com/Jostin-2000"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=Jostin-2000&style=for-the-badge&color=6DB33F&label=Visitas+al+perfil" />
 
 </div>
 
@@ -45,28 +53,51 @@ Esta competencia me enseñó a resolver problemas complejos con lógica y eficie
 <div align="center">
 
 **Lenguajes**
-
+<br/>
 <img src="https://skillicons.dev/icons?i=python,java,js" />
 
 <br/><br/>
 
 **Frameworks y librerías**
-
+<br/>
 <img src="https://skillicons.dev/icons?i=spring" />
 
 <br/><br/>
 
 **Frontend**
-
+<br/>
 <img src="https://skillicons.dev/icons?i=html,css" />
 
 <br/><br/>
 
 **Herramientas**
-
+<br/>
 <img src="https://skillicons.dev/icons?i=git,postman" />
 
 </div>
+
+<br/>
+
+## 💼 Proyectos destacados
+
+<table>
+<tr>
+<td width="100%">
+
+**🌎 [earth.github.io](https://github.com/Jostin-2000)**
+Proyecto de cifrado desarrollado con HTML, CSS y JavaScript.
+
+</td>
+</tr>
+<tr>
+<td width="100%">
+
+**🔜 Próximamente**
+APIs REST con Spring Boot y automatización con Python.
+
+</td>
+</tr>
+</table>
 
 <br/>
 
@@ -74,12 +105,25 @@ Esta competencia me enseñó a resolver problemas complejos con lógica y eficie
 
 <div align="center">
 
+<img src="https://img.shields.io/github/stars/Jostin-2000?style=for-the-badge&color=6DB33F&label=Estrellas" />
+<img src="https://img.shields.io/github/followers/Jostin-2000?style=for-the-badge&color=0A66C2&label=Seguidores" />
+
+<br/><br/>
+
 <img src="https://github-readme-stats.vercel.app/api?username=Jostin-2000&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jostin-2000&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 
+</div>
+
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Jostin-2000&theme=tokyonight&hide_border=true" height="165"/>
+## 📬 Contacto
+
+<div align="center">
+
+¿Quieres conversar sobre tecnología, oportunidades o proyectos? ¡Escríbeme!
+
+<a href="mailto:tuemail@gmail.com"><img src="https://img.shields.io/badge/Escríbeme-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 </div>
 
