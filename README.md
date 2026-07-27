@@ -1,73 +1,98 @@
-[README (1).md](https://github.com/user-attachments/files/30434533/README.1.md)
+[README (2).md](https://github.com/user-attachments/files/30434703/README.2.md)
 <div align="center">
 
-# ¡Hola! 👋 Soy Jostin
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:6DB33F&height=200&section=header&text=¡Hola,%20soy%20Jostin!&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Desarrollador%20de%20Software%20%7C%20Backend%20Enthusiast%20%7C%20Ecuador&descAlignY=55&descSize=18" width="100%"/>
 
-### Desarrollador de Software | Backend Enthusiast | Ecuador 🇪🇨
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](#)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](#)
+<a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 </div>
 
----
+<br/>
 
 ## 🚀 Sobre mí
 
 Soy un **Desarrollador de Software** ecuatoriano, egresado de la carrera de **Tecnología Superior en Desarrollo de Software**. Me especializo en el desarrollo de aplicaciones robustas y escalables, con un fuerte enfoque en el **backend**.
 
+<table>
+<tr>
+<td width="50%" valign="top">
+
 ### 🏆 Logro destacado
 
-> 🥈 **Segundo lugar nacional** en las Olimpiadas Informáticas de Ecuador.
-> Esta competencia me enseñó a resolver problemas complejos con lógica y eficiencia.
+🥈 **Segundo lugar nacional** en las Olimpiadas Informáticas de Ecuador.
 
-### 🎯 Mis metas actuales
+Esta competencia me enseñó a resolver problemas complejos con lógica y eficiencia.
 
-- 🎓 Prepararme para postular a una beca **Fulbright-SENESCYT** para una maestría en EE.UU.
-- 📚 Profundizar mis conocimientos en **Spring Boot** y **microservicios**.
-- 🌱 Contribuir a proyectos open-source y construir soluciones que impacten positivamente.
+</td>
+<td width="50%" valign="top">
 
----
+### 🎯 Metas actuales
 
-## 🛠️ Tecnologías que manejo
+- 🎓 Postular a la beca **Fulbright-SENESCYT** para una maestría en EE. UU.
+- 📚 Profundizar en **Spring Boot** y microservicios.
+- 🌱 Contribuir a proyectos open-source.
 
-**Lenguajes de programación**
+</td>
+</tr>
+</table>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+<br/>
+
+## 🛠️ Stack tecnológico
+
+<div align="center">
+
+**Lenguajes**
+
+<img src="https://skillicons.dev/icons?i=python,java,js" />
+
+<br/><br/>
 
 **Frameworks y librerías**
 
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
+<img src="https://skillicons.dev/icons?i=spring" />
 
-**Frontend básico**
+<br/><br/>
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+**Frontend**
 
-**Herramientas y control de versiones**
+<img src="https://skillicons.dev/icons?i=html,css" />
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+<br/><br/>
 
----
+**Herramientas**
 
-## 📊 Mis estadísticas
-
-<div align="center">
-
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Jostin-2000&show_icons=true&theme=tokyonight&hide_border=true)
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Jostin-2000&layout=compact&theme=tokyonight&hide_border=true)
+<img src="https://skillicons.dev/icons?i=git,postman" />
 
 </div>
 
----
+<br/>
+
+## 📊 Estadísticas de GitHub
 
 <div align="center">
 
-⭐ **Mi objetivo:** Convertirme en un referente del desarrollo de software en Ecuador y contribuir al crecimiento tecnológico del país.
+<img src="https://github-readme-stats.vercel.app/api?username=Jostin-2000&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jostin-2000&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Jostin-2000&theme=tokyonight&hide_border=true" height="165"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### ⭐ Mi objetivo
+
+Convertirme en un referente del desarrollo de software en Ecuador y contribuir al crecimiento tecnológico del país.
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6DB33F,100:0A66C2&height=100&section=footer" width="100%"/>
 
 </div>
