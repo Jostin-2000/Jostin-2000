@@ -1,3 +1,4 @@
+[README (1).md](https://github.com/user-attachments/files/30434533/README.1.md)
 <div align="center">
 
 # ¡Hola! 👋 Soy Jostin
@@ -58,8 +59,8 @@ Soy un **Desarrollador de Software** ecuatoriano, egresado de la carrera de **Te
 
 <div align="center">
 
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true)
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight&hide_border=true)
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Jostin-2000&show_icons=true&theme=tokyonight&hide_border=true)
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Jostin-2000&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
