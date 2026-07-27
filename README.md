@@ -1,9 +1,9 @@
-[README (3).md](https://github.com/user-attachments/files/30434868/README.3.md)
+[README (4).md](https://github.com/user-attachments/files/30434931/README.4.md)
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:6DB33F&height=200&section=header&text=¡Hola,%20soy%20Jostin!&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Desarrollador%20de%20Software%20%7C%20Backend%20Enthusiast%20%7C%20Ecuador&descAlignY=55&descSize=18" width="100%"/>
+<img src="assets/galaxy-banner.svg" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=6DB33F&center=true&vCenter=true&width=600&lines=Construyendo+APIs+robustas+con+Spring+Boot;Aprendiendo+algo+nuevo+cada+d%C3%ADa;Postulando+a+la+beca+Fulbright-SENESCYT" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=B9A3FF&center=true&vCenter=true&width=600&lines=Construyendo+APIs+robustas+con+Spring+Boot;Aprendiendo+algo+nuevo+cada+d%C3%ADa;Postulando+a+la+beca+Fulbright-SENESCYT" alt="Typing SVG" />
 
 <br/><br/>
 
@@ -137,6 +137,6 @@ Convertirme en un referente del desarrollo de software en Ecuador y contribuir a
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6DB33F,100:0A66C2&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1b1035,100:03020a&height=100&section=footer" width="100%"/>
 
 </div>
