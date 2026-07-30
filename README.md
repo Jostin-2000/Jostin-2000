@@ -224,7 +224,7 @@ Esta competencia me enseñó a resolver problemas complejos con lógica y eficie
 
 ### 🎯 Metas actuales
 
-- 🎓 Postular a la beca **Fulbright-SENESCYT** para una maestría en EE. UU.
+- 🎓 Aportar mis conocimiento para un pais con futuras tecnologias.
 - 📚 Profundizar en **Spring Boot** y microservicios.
 - 🌱 Contribuir a proyectos open-source.
 
